@@ -9,10 +9,10 @@
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5223.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Lesson 6"
+  DTS:ObjectName="Lesson 61"
   DTS:PackageType="5"
-  DTS:VersionBuild="28"
-  DTS:VersionGUID="{80B0528A-AD49-4EDF-B1BD-D375906445F7}">
+  DTS:VersionBuild="30"
+  DTS:VersionGUID="{6551C547-8E35-4ED0-81B0-AA785546CB11}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -106,11 +106,11 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD6dUD3XXmegguPldX5CqY42akjkYvPNMxL/pw/ZeF2BQAAAAAOgAAAAAIAACAAAABaQxgDSzb9Ah74Lfya47kDTVl8N3xy5gqd2b4aDNFIYhAAAAC3JxZrgZHXYM5Cj+EHEaSSQAAAAGf3pBlkSfJnNQ1XLFdLpoZAZqMWW47RLG54ZzdvR7jN/C2YeUi5FGoFuKRzz42mR0T+2PowdEDg2yY9P9jRbuo</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8g3ftyn6RcWWUagL4kA9xDLuhXT+o6ZWi+DpTZ2CNywAAAAAOgAAAAAIAACAAAAAYG9ddMyep41sxboUOa4vpW2a3plripvbfchNoRJC0lxAAAABi8CRjoEK8YOK8JoHnfUxeQAAAADP/qjE00HgtQjBRBYBDOJOJCOtjxjSN8XMCij8YNK6lYYpwqgWwC0Nywax4cMNcFaz37RZhswl13rpHiPO1NsE</DTS:Property>
             <DTS:Property
               DTS:Name="ProxyPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADavar/u6hFwstS6gLIRwOLDpDgy9eXFbRQZaHreLhBJwAAAAAOgAAAAAIAACAAAADOGI+7imDjJKg3UAa8A/mKB82wBgwKTPI407PZ5yUdxhAAAAAmKAu8NQUEsZLMQzdAjRDcQAAAAIKq0nJblqU4MgbSfL/91FdXEsmGdG9iAyyUSYwNBE++YJVjmFz56hGF99m7S0MydOzkhQoN92BlcWSL7qwYCC8</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACsMpJjT9R8IoQC3Q/JT687K0lTALS9yWv3GeBNTDhQHwAAAAAOgAAAAAIAACAAAABy8FeYXDD/eWswoQ8cw4ayJBB6glQegrzdY3D+IZn2qRAAAABQSA7fTJ1Z4JfYDJCOl4RcQAAAAGLgNDat+R+HALvyC54cEGKVU52VeJKrOF/E0VpI1H5GrJ0mSIuMaftUcx5Iig13GaBuxWudL2+5UljGceZA71E</DTS:Property>
           </DTS:HttpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -2272,7 +2272,7 @@ where [refTable].[FullDateAlternateKey] = ?</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -2282,7 +2282,7 @@ where [refTable].[FullDateAlternateKey] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
