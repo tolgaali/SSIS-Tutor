@@ -9,10 +9,10 @@
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5223.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Lesson 61"
+  DTS:ObjectName="Lesson 6"
   DTS:PackageType="5"
-  DTS:VersionBuild="30"
-  DTS:VersionGUID="{6551C547-8E35-4ED0-81B0-AA785546CB11}">
+  DTS:VersionBuild="31"
+  DTS:VersionGUID="{C5BB7E42-3AFA-4127-9E92-188B389DE6A6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -106,11 +106,11 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8g3ftyn6RcWWUagL4kA9xDLuhXT+o6ZWi+DpTZ2CNywAAAAAOgAAAAAIAACAAAAAYG9ddMyep41sxboUOa4vpW2a3plripvbfchNoRJC0lxAAAABi8CRjoEK8YOK8JoHnfUxeQAAAADP/qjE00HgtQjBRBYBDOJOJCOtjxjSN8XMCij8YNK6lYYpwqgWwC0Nywax4cMNcFaz37RZhswl13rpHiPO1NsE</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACauLrzCuO2a1x8VgTtmrylRzIA1cm3MViGvnh/EPpZYAAAAAAOgAAAAAIAACAAAABCizM5byLsAnTkLX22mwz5gZllGWQQMVEosjjtcdbxkRAAAAAsfRxSwXsYkgCrFh9ZUe/aQAAAACf7ULj6tAJ9vu//HWjBA9pTCCXD6lxp2Z1be55++D19fFHbcjyZQoVt222wG8kjqoz9LZqSPBuoJL7N8FoveQ4</DTS:Property>
             <DTS:Property
               DTS:Name="ProxyPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACsMpJjT9R8IoQC3Q/JT687K0lTALS9yWv3GeBNTDhQHwAAAAAOgAAAAAIAACAAAABy8FeYXDD/eWswoQ8cw4ayJBB6glQegrzdY3D+IZn2qRAAAABQSA7fTJ1Z4JfYDJCOl4RcQAAAAGLgNDat+R+HALvyC54cEGKVU52VeJKrOF/E0VpI1H5GrJ0mSIuMaftUcx5Iig13GaBuxWudL2+5UljGceZA71E</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4WgmZ32whUqmEj/SI8w50wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAPvTEgTRiV34oypL7vthgTPX1MGxUHzLYSSU+sWcCGHgAAAAAOgAAAAAIAACAAAAC9K3D/0loORpueiE6HywpuUdHmGX89o/wyCreYt/PjdxAAAACnG1/iM7c+u7gLsxIQW78OQAAAACcfzWUC/vQRU1OnsNt1yRJCOnqjthkdXl4+hlA/imFKsUdtaNy4bk59C5kYQMJtjtle091OQjUBAyUIzXTHP/4</DTS:Property>
           </DTS:HttpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
